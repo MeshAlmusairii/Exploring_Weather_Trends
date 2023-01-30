@@ -1,5 +1,5 @@
 # Exploring_Weather_Trends
-Udacity Data Analytics Nanodegree December 2022 - january 2023 Project 1 - Exploring Weather Trends using SQL
+Udacity Data Analytics Nanodegree December 2022 - January 2023 Project 1 - Exploring Weather Trends using SQL
 
 
 
