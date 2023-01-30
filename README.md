@@ -11,7 +11,9 @@ This project will analyze local and global temperature data and compare the temp
 This project requires the following steps:
 
 1- Extract data from a database using a SQL query.
+
 2- Calculate a moving average in a spreadsheet.
+
 3- Create a line chart in a spreadsheet.
 
 
